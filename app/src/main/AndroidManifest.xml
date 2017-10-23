@@ -18,5 +18,4 @@
             <meta-data android:name="RECOGNIZE_MODE" android:value="1"/>
         </activity>
     </application>
-
 </manifest>
